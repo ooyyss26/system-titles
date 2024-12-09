@@ -23,3 +23,5 @@ IMDB - [data model](https://fordnox.github.io/databaseanswers/data_models/imdb/i
 Animal Shelter - [data model](https://fordnox.github.io/databaseanswers/data_models/animal_shelters/index.htm) - [Vincent M. Vigonte](https://github.com/vincentvigonte) - 202280295@psu.palawan.edu.ph
 
 Inventory and sales - [data model](https://fordnox.github.io/databaseanswers/data_models/inventory_and_sales/index.htm) - [John Vincent B. Labotoy](https://github.com/jhnvincent) - 202280234@psu.palawan.edu.ph
+
+Vehicle Rental - [data model](https://fordnox.github.io/databaseanswers/data_models/vehicle_rental/index.htm) - [Kyle Cedric S. Engreso](https://github.com/kyleengreso) - 202280348@psu.palawan.edu.ph
