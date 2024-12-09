@@ -14,6 +14,12 @@ E-commerce Games Store - [data model](https://fordnox.github.io/databaseanswers/
 
 Car_Hire - [data model](https://fordnox.github.io/databaseanswers/data_models/car_hire/index.htm) - [John Rafael F. Macalinao](https://github.com/PaelMacalinao) - 202280370@psu.palawan.edu.ph
 
-Car_Hire - [data model](https://fordnox.github.io/databaseanswers/data_models/car_hire/index.htm) - [John Rafael F. Macalinao](https://github.com/PaelMacalinao) - 202280370@psu.palawan.edu.ph
+Books and Libraries - [data model](https://fordnox.github.io/databaseanswers/data_models/libraries_and_books/index.htm) - [Jovan P. Timosa](https://github.com/JovTim) - 202280218@psu.palawan.edu.ph
+
+Hospice Patient Care - [data model](https://fordnox.github.io/databaseanswers/data_models/hospice_patient_care/index.htm) - [Crishel B. Ponce](https://github.com/crishelpc) - 202280108@psu.palawan.edu.ph
+
+IMDB - [data model](https://fordnox.github.io/databaseanswers/data_models/imdb/index.htm) - [Jian Z'car V. Esteban](https://github.com/JianZcar) - 202280095@psu.palawan.edu.ph
+
+Animal Shelter - [data model](https://fordnox.github.io/databaseanswers/data_models/animal_shelters/index.htm) - [Vincent M. Vigonte](https://github.com/vincentvigonte) - 202280295@psu.palawan.edu.ph
 
 Inventory and sales - [data model](https://fordnox.github.io/databaseanswers/data_models/inventory_and_sales/index.htm) - [John Vincent B. Labotoy](https://github.com/jhnvincent) - 202280234@psu.palawan.edu.ph
