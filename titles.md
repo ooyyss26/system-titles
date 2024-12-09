@@ -14,4 +14,24 @@ E-commerce Games Store - [data model](https://fordnox.github.io/databaseanswers/
 
 Car_Hire - [data model](https://fordnox.github.io/databaseanswers/data_models/car_hire/index.htm) - [John Rafael F. Macalinao](https://github.com/PaelMacalinao) - 202280370@psu.palawan.edu.ph
 
+Books and Libraries - [data model](https://fordnox.github.io/databaseanswers/data_models/libraries_and_books/index.htm) - [Jovan P. Timosa](https://github.com/JovTim) - 202280218@psu.palawan.edu.ph
+
+Hospice Patient Care - [data model](https://fordnox.github.io/databaseanswers/data_models/hospice_patient_care/index.htm) - [Crishel B. Ponce](https://github.com/crishelpc) - 202280108@psu.palawan.edu.ph
+
+IMDB - [data model](https://fordnox.github.io/databaseanswers/data_models/imdb/index.htm) - [Jian Z'car V. Esteban](https://github.com/JianZcar) - 202280095@psu.palawan.edu.ph
+
+Animal Shelter - [data model](https://fordnox.github.io/databaseanswers/data_models/animal_shelters/index.htm) - [Vincent M. Vigonte](https://github.com/vincentvigonte) - 202280295@psu.palawan.edu.ph
+
+Inventory and sales - [data model](https://fordnox.github.io/databaseanswers/data_models/inventory_and_sales/index.htm) - [John Vincent B. Labotoy](https://github.com/jhnvincent) - 202280234@psu.palawan.edu.ph
+
+Vehicle Rental - [data model](https://fordnox.github.io/databaseanswers/data_models/vehicle_rental/index.htm) - [Kyle Cedric S. Engreso](https://github.com/kyleengreso) - 202280348@psu.palawan.edu.ph
+
+Libraries Basic Model - [data model](https://fordnox.github.io/databaseanswers/data_models/library/index.htm) - [Earl Laquiorez](https://github.com/EjLaquiorez) - 201540137@psu.palawan.edu.ph
+
+Bookseller - [data model](https://fordnox.github.io/databaseanswers/data_models/bookstore/index.htm) - [Ronald Jason H. Capuno](https://github.com/NaldCapuno) - 202280125@psu.palawan.edu.ph
+
+Banking Checking Accounts - [data model](https://fordnox.github.io/databaseanswers/data_models/banking_checking_accounts/index.htm) - [Mark Joseph J. Alilano](https://github.com/mrkalilano) - 202280131@psu.palawan.edu.ph
+
+Car_dealership - [data model](https://fordnox.github.io/databaseanswers/data_models/car_dealership/index.htm) - [Ken Roger S. Domingo](https://github.com/Sekki011604) - 202280146@psu.palawan.edu.ph
+
 Club Member - [data model](https://fordnox.github.io/databaseanswers/data_models/club_members/index.htm) - [Jay Mar Laurence G. Tabang](https://github.com/Lauriinz) - 202280129@psu.palawan.edu.ph
