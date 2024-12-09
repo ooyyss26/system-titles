@@ -33,3 +33,5 @@ Bookseller - [data model](https://fordnox.github.io/databaseanswers/data_models/
 Banking Checking Accounts - [data model](https://fordnox.github.io/databaseanswers/data_models/banking_checking_accounts/index.htm) - [Mark Joseph J. Alilano](https://github.com/mrkalilano) - 202280131@psu.palawan.edu.ph
 
 Car_dealership - [data model](https://fordnox.github.io/databaseanswers/data_models/car_dealership/index.htm) - [Ken Roger S. Domingo](https://github.com/Sekki011604) - 202280146@psu.palawan.edu.ph
+
+Club Member - [data model](https://fordnox.github.io/databaseanswers/data_models/club_members/index.htm) - [Jay Mar Laurence G. Tabang](https://github.com/Lauriinz) - 202280129@psu.palawan.edu.ph
