@@ -6,7 +6,7 @@ Dog Breeding System API - [data model](https://fordnox.github.io/databaseanswers
 
 Customers Services System API - [data model](https://fordnox.github.io/databaseanswers/data_models/customers_and_services/index.htm) - [Brian Keinth Arnejo](https://github.com/astalkb) - 202280176@psu.palawan.edu.ph
 
-Customers and Games Shop - [data model](https://fordnox.github.io/databaseanswers/data_models/game_shop/index.htm) - [NO NAME](NO LINK)
+Customers and Games Shop - [data model](https://fordnox.github.io/databaseanswers/data_models/game_shop/index.htm) - [Mark Cedie Buday](https://github.com/aceday) - 202280005@psu.palawan.edu.ph
 
 E-Learning API - [data model](https://fordnox.github.io/databaseanswers/data_models/e_learning/index.htm) - [Karen Angela Aldama Realubit](https://github.com/Angela1104) - 202280058@psu.palawan.edu.ph
 
