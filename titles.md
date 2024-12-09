@@ -10,4 +10,5 @@ Customers and Games Shop - [data model](https://fordnox.github.io/databaseanswer
 
 E-Learning API - [data model](https://fordnox.github.io/databaseanswers/data_models/e_learning/index.htm) - [Karen Angela Aldama Realubit](https://github.com/Angela1104) - 202280058@psu.palawan.edu.ph
 
+E-commerce Games Store - [data model](https://fordnox.github.io/databaseanswers/data_models/game_shop/index.htm) - [Carlos Miguel M. Heredero](https://github.com/Carl2121) - 202280049@psu.palawan.edu.ph
 
