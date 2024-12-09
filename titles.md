@@ -37,3 +37,5 @@ Car_dealership - [data model](https://fordnox.github.io/databaseanswers/data_mod
 Club Member - [data model](https://fordnox.github.io/databaseanswers/data_models/club_members/index.htm) - [Jay Mar Laurence G. Tabang](https://github.com/Lauriinz) - 202280129@psu.palawan.edu.ph
 
 Organic_vegetable_garden_planner - [data model](https://fordnox.github.io/databaseanswers/data_models/organic_vegetable_garden_planner/index.htm) - [Michael John T. Austria](https://github.com/michaeljohnaustria) - 202280383@psu.palawan.edu.ph
+
+inventory_control_for_sports_centers - [data model](https://fordnox.github.io/databaseanswers/data_models/inventory_control_for_sports_centers/index.htm) - [Darwin B. Velasco Jr. ](https://github.com/DarsVelasco) - 202280141@psu.palawan.edu.ph
