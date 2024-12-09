@@ -39,3 +39,5 @@ Club Member - [data model](https://fordnox.github.io/databaseanswers/data_models
 Organic_vegetable_garden_planner - [data model](https://fordnox.github.io/databaseanswers/data_models/organic_vegetable_garden_planner/index.htm) - [Michael John T. Austria](https://github.com/michaeljohnaustria) - 202280383@psu.palawan.edu.ph
 
 inventory_control_for_sports_centers - [data model](https://fordnox.github.io/databaseanswers/data_models/inventory_control_for_sports_centers/index.htm) - [Darwin B. Velasco Jr. ](https://github.com/DarsVelasco) - 202280141@psu.palawan.edu.ph
+
+Flight Schedule - [data model](https://fordnox.github.io/databaseanswers/data_models/travel_routes/index.htm) - [Nowell T. Saavedra](https://github.com/zanzers) - 202280214@psu.palawan.edu.ph
