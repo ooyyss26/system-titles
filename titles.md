@@ -21,3 +21,5 @@ Hospice Patient Care - [data model](https://fordnox.github.io/databaseanswers/da
 IMDB - [data model](https://fordnox.github.io/databaseanswers/data_models/imdb/index.htm) - [Jian Z'car V. Esteban](https://github.com/JianZcar) - 202280095@psu.palawan.edu.ph
 
 Animal Shelter - [data model](https://fordnox.github.io/databaseanswers/data_models/animal_shelters/index.htm) - [Vincent M. Vigonte](https://github.com/vincentvigonte) - 202280295@psu.palawan.edu.ph
+
+Car Service Center - [data model](https://fordnox.github.io/databaseanswers/data_models/car_svc_center/index.htm) - [Michael Angelo C. Torrefiel](https://github.com/michaeltorrefiel) - 202280397@psu.palawan.edu.ph
