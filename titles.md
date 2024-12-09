@@ -18,3 +18,4 @@ Books and Libraries - [data model](https://fordnox.github.io/databaseanswers/dat
 
 Hospice Patient Care - [data model](https://fordnox.github.io/databaseanswers/data_models/hospice_patient_care/index.htm) - [Crishel B. Ponce](https://github.com/crishelpc) - 202280108@psu.palawan.edu.ph
 
+IMDB - [data model](https://fordnox.github.io/databaseanswers/data_models/imdb/index.htm) - [Jian Z'car V. Esteban](https://github.com/JianZcar) - 202280095@psu.palawan.edu.ph
