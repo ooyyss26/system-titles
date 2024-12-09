@@ -25,3 +25,6 @@ Animal Shelter - [data model](https://fordnox.github.io/databaseanswers/data_mod
 Inventory and sales - [data model](https://fordnox.github.io/databaseanswers/data_models/inventory_and_sales/index.htm) - [John Vincent B. Labotoy](https://github.com/jhnvincent) - 202280234@psu.palawan.edu.ph
 
 Vehicle Rental - [data model](https://fordnox.github.io/databaseanswers/data_models/vehicle_rental/index.htm) - [Kyle Cedric S. Engreso](https://github.com/kyleengreso) - 202280348@psu.palawan.edu.ph
+
+Libraries Basic Model - [data model](https://fordnox.github.io/databaseanswers/data_models/library/index.htm) - [Earl Laquiorez](https://github.com/EjLaquiorez) - 201540137@psu.palawan.edu.ph
+
