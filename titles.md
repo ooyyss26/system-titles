@@ -31,3 +31,5 @@ Libraries Basic Model - [data model](https://fordnox.github.io/databaseanswers/d
 Bookseller - [data model](https://fordnox.github.io/databaseanswers/data_models/bookstore/index.htm) - [Ronald Jason H. Capuno](https://github.com/NaldCapuno) - 202280125@psu.palawan.edu.ph
 
 Banking Checking Accounts - [data model](https://fordnox.github.io/databaseanswers/data_models/banking_checking_accounts/index.htm) - [Mark Joseph J. Alilano](https://github.com/mrkalilano) - 202280131@psu.palawan.edu.ph
+
+Car_dealership - [data model](https://fordnox.github.io/databaseanswers/data_models/car_dealership/index.htm) - [Ken Roger S. Domingo](https://github.com/Sekki011604) - 202280146@psu.palawan.edu.ph
