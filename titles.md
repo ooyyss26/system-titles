@@ -13,3 +13,5 @@ E-Learning API - [data model](https://fordnox.github.io/databaseanswers/data_mod
 E-commerce Games Store - [data model](https://fordnox.github.io/databaseanswers/data_models/game_shop/index.htm) - [Carlos Miguel M. Heredero](https://github.com/Carl2121) - 202280049@psu.palawan.edu.ph
 
 Car_Hire - [data model](https://fordnox.github.io/databaseanswers/data_models/car_hire/index.htm) - [John Rafael F. Macalinao](https://github.com/PaelMacalinao) - 202280370@psu.palawan.edu.ph
+
+Flight Schedule - [data model](https://fordnox.github.io/databaseanswers/data_models/travel_routes/index.htm) - [Nowell T. Saavedra](https://github.com/zanzers) - 202280214@psu.palawan.edu.ph
