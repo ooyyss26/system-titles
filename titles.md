@@ -14,4 +14,7 @@ E-commerce Games Store - [data model](https://fordnox.github.io/databaseanswers/
 
 Car_Hire - [data model](https://fordnox.github.io/databaseanswers/data_models/car_hire/index.htm) - [John Rafael F. Macalinao](https://github.com/PaelMacalinao) - 202280370@psu.palawan.edu.ph
 
+Books and Libraries - [data model](https://fordnox.github.io/databaseanswers/data_models/libraries_and_books/index.htm) - [Jovan P. Timosa](https://github.com/JovTim) - 202280218@psu.palawan.edu.ph
+
 Hospice Patient Care - [data model](https://fordnox.github.io/databaseanswers/data_models/hospice_patient_care/index.htm) - [Crishel B. Ponce](https://github.com/crishelpc) - 202280108@psu.palawan.edu.ph
+
