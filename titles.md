@@ -57,3 +57,5 @@ Students and Exams - [data model](https://fordnox.github.io/databaseanswers/data
 Student Rosters - [data model](https://fordnox.github.io/databaseanswers/data_models/student_rosters/index.htm) - [Jamaica C. Magbanua](https://github.com/Maica08) - 202280193@psu.palawan.edu.ph
 
 Students and Exams - [data model](https://fordnox.github.io/databaseanswers/data_models/security_guards/index.htm) - [Espencer M. Badilla](https://github.com/Stress-In-Coding) - 202280032@psu.palawan.edu.ph
+
+Customer Management - [data model](https://fordnox.github.io/databaseanswers/data_models/customer_management_systems/index.htm) - [Drew Jhone M. Wakefield](https://github.com/curiouscat21) - 202280185@psu.palawan.edu.ph
