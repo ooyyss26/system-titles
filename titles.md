@@ -62,3 +62,4 @@ Customer Management - [data model](https://fordnox.github.io/databaseanswers/dat
 
 Sperm Banks - [data model](https://fordnox.github.io/databaseanswers/data_models/sperm_banks/index.htm) - [Fernando P. Pineda Jr.](https://github.com/fppinedajr) - 202280110@psu.palawan.edu.ph
 
+Point of Sale (POS) - [data model](https://fordnox.github.io/databaseanswers/data_models/generic_pos/index.htm) - [Arjay S. Timbancaya](https://github.com/Arjay1412) - 201940257@psu.palawan.edu.ph
