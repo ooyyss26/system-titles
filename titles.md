@@ -66,4 +66,4 @@ Sperm Banks - [data model](https://fordnox.github.io/databaseanswers/data_models
 
 Point of Sale (POS) - [data model](https://fordnox.github.io/databaseanswers/data_models/generic_pos/index.htm) - [Arjay S. Timbancaya](https://github.com/Arjay1412) - 201940257@psu.palawan.edu.ph
 
-Inventory of Rental Equipments - [data model ] (https://fordnox.github.io/databaseanswers/data_models/inventory_of_rental_equipment/index.htm) - [Spledelyn Cristine P. Recarze] (https://github.com/sci17) - 202280045@psu.palawan.edu.ph
+Inventory of Rental Equipments - [data model ](https://fordnox.github.io/databaseanswers/data_models/inventory_of_rental_equipment/index.htm) - [Spledelyn Cristine P. Recarze](https://github.com/sci17) - 202280045@psu.palawan.edu.ph
