@@ -49,3 +49,5 @@ Recipes - [data model](https://fordnox.github.io/databaseanswers/data_models/rec
 Private Banking - [data model](https://fordnox.github.io/databaseanswers/data_models/private_banking/index.htm) - [Dale Gabriel T. Alie](https://github.com/dalealie) - 202280133@psu.palawan.edu.ph
 
 Event planning - [data model] (https://fordnox.github.io/databaseanswers/data_models/event_planning/index.htm) - [Janmark Czar B. Villareal](https://github.com/Czarap) - 202280308@psu.palawan.edu.ph
+
+Allotments - [data model](https://fordnox.github.io/databaseanswers/data_models/allotments/index.htm) - [Siradz M. Sahiddin](https://github.com/iaa-ai) - 202280411@psu.palawan.edu.ph
