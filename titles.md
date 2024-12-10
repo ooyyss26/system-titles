@@ -54,4 +54,4 @@ Allotments - [data model](https://fordnox.github.io/databaseanswers/data_models/
 
 Students and Exams - [data model](https://fordnox.github.io/databaseanswers/data_models/student_exams/index.htm) - [Christian M. Ala](https://github.com/tianala) - 202280241@psu.palawan.edu.ph
 
-Pest Control - [data model ] (https://fordnox.github.io/databaseanswers/data_models/pest_control/index.htm) - [Spledelyn Cristine P. Recarze] (https://github.com/sci17) - 202280045@psu.palawan.edu.ph
+Inventory of Rental Equipments - [data model ] (https://fordnox.github.io/databaseanswers/data_models/inventory_of_rental_equipment/index.htm) - [Spledelyn Cristine P. Recarze] (https://github.com/sci17) - 202280045@psu.palawan.edu.ph
