@@ -44,4 +44,6 @@ Flight Schedule - [data model](https://fordnox.github.io/databaseanswers/data_mo
 
 Car Service Center - [data model](https://fordnox.github.io/databaseanswers/data_models/car_svc_center/index.htm) - [Michael Angelo C. Torrefiel](https://github.com/michaeltorrefiel) - 202280397@psu.palawan.edu.ph
 
+Recipes - [data model](https://fordnox.github.io/databaseanswers/data_models/recipes/index.htm) - [Rolando J. Coloquit Jr.](https://github.com/Rjcoloquit) - 202140043@psu.palawan.edu.ph
+
 Private Banking - [data model](https://fordnox.github.io/databaseanswers/data_models/private_banking/index.htm) - [Dale Gabriel T. Alie](https://github.com/dalealie) - 202280133@psu.palawan.edu.ph
