@@ -1,5 +1,7 @@
 # System titles
 
+Customer and health_centres - [data model](https://fordnox.github.io/databaseanswers/data_models/health_centres/index.htm) - [Marcelo R. Manzano Jr.](https://github.com/MarceloManzanoJr) - 202280097@psu.palawan.edu.ph
+
 Hairdresser Appointment System API - [data model](https://fordnox.github.io/databaseanswers/data_models/hairdressers/index.htm) - [Roy Cyril Dosado](https://github.com/rcdosado) - rcdosado@psu.palawan.edu.ph
 
 Dog Breeding System API - [data model](https://fordnox.github.io/databaseanswers/data_models/dog_breeding/index.htm) - [Uzziel Kyle Ynciong](https://github.com/uzzielkyle) - 202280399@psu.palawan.edu.ph
@@ -63,5 +65,8 @@ Customer Management - [data model](https://fordnox.github.io/databaseanswers/dat
 Sperm Banks - [data model](https://fordnox.github.io/databaseanswers/data_models/sperm_banks/index.htm) - [Fernando P. Pineda Jr.](https://github.com/fppinedajr) - 202280110@psu.palawan.edu.ph
 
 Point of Sale (POS) - [data model](https://fordnox.github.io/databaseanswers/data_models/generic_pos/index.htm) - [Arjay S. Timbancaya](https://github.com/Arjay1412) - 201940257@psu.palawan.edu.ph
+
+
+Inventory of Rental Equipments - [data model ](https://fordnox.github.io/databaseanswers/data_models/inventory_of_rental_equipment/index.htm) - [Spledelyn Cristine P. Recarze](https://github.com/sci17) - 202280045@psu.palawan.edu.ph
 
 Pest Control - [data model](https://fordnox.github.io/databaseanswers/data_models/pest_control/index.htm) - [Bryand Jones L. Bacani](https://github.com/Bjbacani) - 201980167@psu.palawan.edu.ph
