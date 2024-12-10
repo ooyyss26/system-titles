@@ -1,6 +1,6 @@
 # System titles
 
-Customer and health_centres - [data model](https://fordnox.github.io/databaseanswers/data_models/health_centres/index.htm) Marcelo R. Manzano Jr. 202280097@psu.palawan.edu.ph
+Customer and health_centres - [data model](https://fordnox.github.io/databaseanswers/data_models/health_centres/index.htm) - [Marcelo R. Manzano Jr.](https://github.com/MarceloManzanoJr) - 202280097@psu.palawan.edu.ph
 
 Hairdresser Appointment System API - [data model](https://fordnox.github.io/databaseanswers/data_models/hairdressers/index.htm) - [Roy Cyril Dosado](https://github.com/rcdosado) - rcdosado@psu.palawan.edu.ph
 
