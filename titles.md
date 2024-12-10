@@ -43,3 +43,5 @@ inventory_control_for_sports_centers - [data model](https://fordnox.github.io/da
 Flight Schedule - [data model](https://fordnox.github.io/databaseanswers/data_models/travel_routes/index.htm) - [Nowell T. Saavedra](https://github.com/zanzers) - 202280214@psu.palawan.edu.ph
 
 Car Service Center - [data model](https://fordnox.github.io/databaseanswers/data_models/car_svc_center/index.htm) - [Michael Angelo C. Torrefiel](https://github.com/michaeltorrefiel) - 202280397@psu.palawan.edu.ph
+
+Allotments - [data model](https://fordnox.github.io/databaseanswers/data_models/allotments/index.htm) - [Siradz M. Sahiddin](https://github.com/iaa-ai) - 202280411@psu.palawan.edu.ph
