@@ -10,7 +10,7 @@ Customers and Games Shop - [data model](https://fordnox.github.io/databaseanswer
 
 E-Learning API - [data model](https://fordnox.github.io/databaseanswers/data_models/e_learning/index.htm) - [Karen Angela Aldama Realubit](https://github.com/Angela1104) - 202280058@psu.palawan.edu.ph
 
-E-commerce Games Store - [data model](https://fordnox.github.io/databaseanswers/data_models/game_shop/index.htm) - [Carlos Miguel M. Heredero](https://github.com/Carl2121) - 202280049@psu.palawan.edu.ph
+Dell Computer Sales - [data model](https://fordnox.github.io/databaseanswers/data_models/dell_computer_sales/index.htm) - [Carlos Miguel M. Heredero](https://github.com/Carl2121) - 202280049@psu.palawan.edu.ph
 
 Car_Hire - [data model](https://fordnox.github.io/databaseanswers/data_models/car_hire/index.htm) - [John Rafael F. Macalinao](https://github.com/PaelMacalinao) - 202280370@psu.palawan.edu.ph
 
@@ -54,4 +54,11 @@ Allotments - [data model](https://fordnox.github.io/databaseanswers/data_models/
 
 Students and Exams - [data model](https://fordnox.github.io/databaseanswers/data_models/student_exams/index.htm) - [Christian M. Ala](https://github.com/tianala) - 202280241@psu.palawan.edu.ph
 
+Student Rosters - [data model](https://fordnox.github.io/databaseanswers/data_models/student_rosters/index.htm) - [Jamaica C. Magbanua](https://github.com/Maica08) - 202280193@psu.palawan.edu.ph
+
+Security Guards - [data model](https://fordnox.github.io/databaseanswers/data_models/security_guards/index.htm) - [Espencer M. Badilla](https://github.com/Stress-In-Coding) - 202280032@psu.palawan.edu.ph
+
+Customer Management - [data model](https://fordnox.github.io/databaseanswers/data_models/customer_management_systems/index.htm) - [Drew Jhone M. Wakefield](https://github.com/curiouscat21) - 202280185@psu.palawan.edu.ph
+
 Sperm Banks - [data model](https://fordnox.github.io/databaseanswers/data_models/sperm_banks/index.htm) - [Fernando P. Pineda Jr.](https://github.com/fppinedajr) - 202280110@psu.palawan.edu.ph
+
