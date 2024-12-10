@@ -51,3 +51,6 @@ Private Banking - [data model](https://fordnox.github.io/databaseanswers/data_mo
 Event planning - [data model](https://fordnox.github.io/databaseanswers/data_models/event_planning/index.htm) - [Janmark Czar B. Villareal](https://github.com/Czarap) - 202280308@psu.palawan.edu.ph
 
 Allotments - [data model](https://fordnox.github.io/databaseanswers/data_models/allotments/index.htm) - [Siradz M. Sahiddin](https://github.com/iaa-ai) - 202280411@psu.palawan.edu.ph
+
+Students and Exams - [data model](https://fordnox.github.io/databaseanswers/data_models/student_exams/index.htm) - [Christian M. Ala](https://github.com/tianala) - 202280241@psu.palawan.edu.ph
+
