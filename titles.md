@@ -54,3 +54,8 @@ Allotments - [data model](https://fordnox.github.io/databaseanswers/data_models/
 
 Students and Exams - [data model](https://fordnox.github.io/databaseanswers/data_models/student_exams/index.htm) - [Christian M. Ala](https://github.com/tianala) - 202280241@psu.palawan.edu.ph
 
+Customer Management - [data model](https://fordnox.github.io/databaseanswers/data_models/customer_management_systems/index.htm) - [Drew Jhone M. Wakefield](https://github.com/curiouscat21) - 202280185@psu.palawan.edu.ph
+
+
+
+
