@@ -54,3 +54,5 @@ Allotments - [data model](https://fordnox.github.io/databaseanswers/data_models/
 
 Students and Exams - [data model](https://fordnox.github.io/databaseanswers/data_models/student_exams/index.htm) - [Christian M. Ala](https://github.com/tianala) - 202280241@psu.palawan.edu.ph
 
+Point of Sale (POS) - [data model](https://fordnox.github.io/databaseanswers/data_models/generic_pos/index.htm) - [Arjay S. Timbancaya](https://github.com/Arjay1412) - 201940257@psu.palawan.edu.ph
+
