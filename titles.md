@@ -47,3 +47,5 @@ Car Service Center - [data model](https://fordnox.github.io/databaseanswers/data
 Recipes - [data model](https://fordnox.github.io/databaseanswers/data_models/recipes/index.htm) - [Rolando J. Coloquit Jr.](https://github.com/Rjcoloquit) - 202140043@psu.palawan.edu.ph
 
 Private Banking - [data model](https://fordnox.github.io/databaseanswers/data_models/private_banking/index.htm) - [Dale Gabriel T. Alie](https://github.com/dalealie) - 202280133@psu.palawan.edu.ph
+
+Event planning - [data model] (https://fordnox.github.io/databaseanswers/data_models/event_planning/index.htm) - [Janmark Czar B. Villareal](https://github.com/Czarap) - 202280308@psu.palawan.edu.ph
