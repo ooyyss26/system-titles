@@ -75,3 +75,5 @@ preserved_railways - [data model](https://fordnox.github.io/databaseanswers/data
 bank_and_branches - [data model](https://fordnox.github.io/databaseanswers/data_models/bank_and_branches/index.htm) - [Dindo D Agustin](https://github.com/0go40410tng2) - 202280012@psu.palawan.edu.ph
 
 Customer MetaData Repository - [data model](https://fordnox.github.io/databaseanswers/data_models/customer_metadata/index.htm) - [Antonio A. Linsangan IV](https://github.com/niolinsangan) - 2020100511CN@psu.palawan.edu.ph
+
+Car Purchase - [data model](https://fordnox.github.io/databaseanswers/data_models/hardware_sales/index.htm) - [John Rex O. Gatchalian](https://github.com/lumberjaxxx) - 202280011@psu.palawan.edu.ph
