@@ -70,3 +70,6 @@ Point of Sale (POS) - [data model](https://fordnox.github.io/databaseanswers/dat
 Inventory of Rental Equipments - [data model ](https://fordnox.github.io/databaseanswers/data_models/inventory_of_rental_equipment/index.htm) - [Spledelyn Cristine P. Recarze](https://github.com/sci17) - 202280045@psu.palawan.edu.ph
 
 Pest Control - [data model](https://fordnox.github.io/databaseanswers/data_models/pest_control/index.htm) - [Bryand Jones L. Bacani](https://github.com/Bjbacani) - 201980167@psu.palawan.edu.ph
+
+
+Customer MetaData Repository - [data model](https://fordnox.github.io/databaseanswers/data_models/customer_metadata/index.htm) - [Antonio A. Linsangan IV](https://github.com/niolinsangan) - 2020100511CN@psu.palawan.edu.ph
